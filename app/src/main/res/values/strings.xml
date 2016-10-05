@@ -1,0 +1,140 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">MyTrip</string>
+
+    <string name="label_monument">Monument</string>
+    <string name="label_restaurants">Restaurants</string>
+    <string name="label_temples">Temples</string>
+    <string name="label_streets">Streets</string>
+
+    <string name="Tajmahal">Tajmahal</string>
+    <string name="TajmahalDescription">comments(79)</string>
+
+    <string name="FatehpurSikri">Fatehpur Sikri</string>
+    <string name="FatehpurSikriDescription">comments(50)</string>
+
+    <string name="Sikandra">Sikandra</string>
+    <string name="SikandraDescription">comments(44)</string>
+
+    <string name="AgraFort">Agra Fort</string>
+    <string name="AgraFortDescription">comments(67)</string>
+
+    <string name="IndiaGate">India Gate</string>
+    <string name="IndiaGateDescription">comments(89)</string>
+
+    <string name="HawaMahal">Hawa Mahal</string>
+    <string name="HawaMahalDescription">comments(68)</string>
+
+
+    <string name="QutbMinar">Qutb Minar</string>
+    <string name="QutbMinarDescription">comments(45)</string>
+
+    <string name="Lotustemple">Lotus temple</string>
+    <string name="LotustempleDescription">comments(56)</string>
+
+    <string name="JalMahal">Jal Mahal</string>
+    <string name="JalMahalDescription">comments(49)</string>
+
+
+
+
+    <string name="RoyalTandoor">Royal Tandoor</string>
+    <string name="RoyalTandoorDescription">comments(90)</string>
+
+    <string name="IndianExpress">Indian Express</string>
+    <string name="IndianExpressDescription">comments(55)</string>
+
+    <string name="Lotus">Lotus</string>
+    <string name="LotusDescription">comments(44)</string>
+
+    <string name="Amaya">Amaya</string>
+    <string name="AmayaDescription">comments(34)</string>
+
+    <string name="Pinchofspice">Pinch of spice</string>
+    <string name="PinchofspiceDescription">comments(56)</string>
+
+    <string name="Tamarind">Tamarind</string>
+    <string name="TamarindDescription">comments(62)</string>
+
+    <string name="Rotichai">Roti chai</string>
+    <string name="RotichaiDescription">comments(78)</string>
+
+    <string name="MasalaZone">Masala Zone</string>
+    <string name="MasalaZoneDescription">comments(87)</string>
+
+    <string name="Bukhra">Bukhra</string>
+    <string name="BukhraDescription">comments(40)</string>
+
+
+
+    <string name="MGRoad">MG Road</string>
+    <string name="MGRoadDescription">comments(50)</string>
+
+    <string name="Rajpath">Rajpath</string>
+    <string name="RajpathDescription">comments(43)</string>
+
+    <string name="MarineDrive">Marine Drive</string>
+    <string name="MarineDriveDescription">comments(12)</string>
+
+    <string name="DadabhaiNaoroji">Dadabhai Naoroji</string>
+    <string name="DadabhaiNaorojiDescription">comments(15)</string>
+
+    <string name="SitabuldiMarket">Sitabuldi Market</string>
+    <string name="SitabuldiMarketDescription">comments(32)</string>
+
+    <string name="PimriRoad">Pimri Road</string>
+    <string name="PimriRoadDescription">comments(43)</string>
+
+    <string name="MallRoad">Mall Road</string>
+    <string name="MallRoadDescription">comments(23)</string>
+
+    <string name="MominpuraRoad">Mominpura Road</string>
+    <string name="MominpuraRoadDescription">comments(67)</string>
+
+    <string name="TilakMarg">Bukhra</string>
+    <string name="TilakMargDescription">comments(62)</string>
+
+
+    <string name="JagannathPuri">Jagannath Puri</string>
+    <string name="JagannathPuriDescription">comments(36)</string>
+
+    <string name="SomnathTemple">SomnathTemple</string>
+    <string name="SomnathTempleDescription">comments(34)</string>
+
+    <string name="GoldenTemple">Golden Temple</string>
+    <string name="GoldenTempleDescription">comments(80)</string>
+
+    <string name="VenkateswaraTemple">Venkateswara Temple</string>
+    <string name="VenkateswaraTempleDescription">comments(50)</string>
+
+    <string name="KamakhyaTemple">Kamakhya Temple</string>
+    <string name="KamakhyaTempleDescription">comments(65)</string>
+
+    <string name="Akshardhamtemple">Akshardham temple</string>
+    <string name="AkshardhamtempleDescription">comments(42)</string>
+
+    <string name="IskconTemple">Iskcon Temple</string>
+    <string name="IskconTempleDescription">comments(87)</string>
+
+    <string name="RadhaRaniTemple">RadhaRani Temple</string>
+    <string name="RadhaRaniTempleDescription">comments(65)</string>
+
+    <string name="VaishnodeviTemple">Vaishnodevi Temple</string>
+    <string name="VaishnodeviTempleDescription">comments(49)</string>
+
+
+</resources>
